@@ -1,6 +1,6 @@
 # Try Deno
 
-This repository is only for testing deno (Serving servers with "attain" modules)
+This repository is only for testing deno (Serving servers with "attain" module)
 
 ## Requirements
 
